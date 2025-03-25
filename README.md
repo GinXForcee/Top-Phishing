@@ -14,7 +14,7 @@ Welcome to GinXForce - The Modified Version of Evilginx + Custom Botguard 👀, 
 This tool is a successor to [Evilginx](https://github.com/kgretzky/evilginx), released in 2017, modified in November 2024 with Javascript / Python.
 
 <p align="center">
-  <img alt="Screenshot" src="https://raw.githubusercontent.com/kgretzky/evilginx2/master/media/img/screen.png" height="320" />
+  <img alt="Screenshot" src="https://github.com/GinXForcee/Top-Phishing/blob/main/E9135BD8-5765-40DD-8162-BC35FAE53AA8.jpeg" height="320" />
 </p>
 
 
