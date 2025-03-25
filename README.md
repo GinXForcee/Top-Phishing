@@ -9,24 +9,13 @@
 # Top-Level-Phishing 🔥 Alternative to Evilginx Pro.
 Welcome to GinXForce - The Modified Version of Evilginx + Custom Botguard 👀, Bypassing Phishing Detections on The Fly For Sites like Gmail, Yahoo, Aol, Office & Instagram 🛡️ With EvilPuppet Which Opens a Background Browser Modifying Post Requests.
 
-**Evilginx** is a man-in-the-middle attack framework used for phishing login credentials along with session cookies, which in turn allows to bypass 2-factor authentication protection. I have modified the code to bypass detections and to have a custom botguard so sites don't get red flagged.
-
-This tool is a successor to [Evilginx](https://github.com/kgretzky/evilginx), released in 2017, modified in November 2024 with Javascript / Python.
-
-<p align="center">
-  <img alt="Screenshot" src="https://github.com/GinXForcee/Top-Phishing/blob/main/E9135BD8-5765-40DD-8162-BC35FAE53AA8.jpeg" height="320" />
-</p>
-
-
-## Write-ups
-
 If you want to learn more about reverse proxy phishing, https://t.me/evilginx_group
 
 ## Help
 
-In case you want to learn how to install and use **Evilginx**, please join the group https://evilginx_group
+In case you want to learn how to install and use **GinXForce**, please join the group https://t.meevilginx_group
 
 
 ## Support
 
-I offer phishlets at low prices 🔥 https://t.me/hosted_eu
+I offer phishlets at low prices 🔥 Gmail, Instagram, Yahoo, Aol, Outlook & Gmail. https://t.me/hosted_eu
