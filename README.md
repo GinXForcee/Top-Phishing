@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img alt="Evilginx2 Logo" src="https://raw.githubusercontent.com/kgretzky/evilginx2/master/media/img/evilginx2-logo-512.png" height="160" />
+  <img alt="Evilginx2 Logo" src="[https://raw.githubusercontent.com/kgretzky/evilginx2/master/media/img/evilginx2-logo-512.png](https://github.com/Hosted-EU/GinXForce/blob/main/60137229-E3D2-43BA-8D83-EB71B699C102.jpeg)" height="160" />
   <p align="center">
     <img alt="Evilginx2 Title" src="https://raw.githubusercontent.com/kgretzky/evilginx2/master/media/img/evilginx2-title-black-512.png" height="60" />
   </p>
